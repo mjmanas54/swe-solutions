@@ -236,3 +236,22 @@ The ethics of quoting a low price for a software contract with ambiguous require
 6. **Alternative Approaches**: Instead of relying on deceptive pricing practices, ethical companies may adopt alternative approaches to address ambiguity in requirements and accommodate changes requested by the customer. This could include providing more detailed estimates, clarifying requirements through iterative development processes, establishing clear change management procedures, and negotiating fair pricing structures that align with the value delivered.
 
 In conclusion, while there may be short-term financial incentives for quoting a low price and then charging high prices for subsequent changes in software contracts, such practices may raise ethical concerns related to transparency, fairness, customer relationships, legal compliance, and professional responsibility. Ethical companies prioritize honesty, integrity, and customer satisfaction in their pricing practices and seek to establish trust-based relationships with their customers.
+
+
+25.1. Suggest five possible problems that could arise if a company does not develop effective
+configuration management policies and processes.
+
+
+Certainly! Here are five potential problems that could arise if a company does not develop effective configuration management policies and processes:
+
+1. **Version Control Issues**: Without proper configuration management, there is a risk of version control issues, where multiple versions of the same software or documents may exist simultaneously. This can lead to confusion among team members, difficulty in tracking changes, and increased likelihood of errors or inconsistencies in the final product.
+
+2. **Inconsistent Environments**: Ineffective configuration management can result in inconsistent development, testing, and production environments. This can lead to compatibility issues, deployment failures, and difficulties in reproducing and debugging software issues across different environments.
+
+3. **Risk of Unauthorized Changes**: Without proper controls in place, there is a risk of unauthorized changes being made to critical software components or configurations. This can result in security vulnerabilities, performance degradation, or unintended consequences that impact the stability and reliability of the system.
+
+4. **Difficulty in Auditing and Compliance**: Effective configuration management is essential for auditing purposes and ensuring compliance with regulatory requirements and industry standards. Without proper documentation and tracking of configuration changes, the company may face challenges in demonstrating compliance, leading to potential legal and financial repercussions.
+
+5. **Impact on Collaboration and Productivity**: Inadequate configuration management can hinder collaboration among team members and slow down the development process. Without clear guidelines and processes for managing configurations and sharing resources, team members may waste time searching for information, resolving conflicts, or reconciling differences, leading to decreased productivity and morale.
+
+Overall, effective configuration management is critical for ensuring consistency, reliability, security, and compliance in software development and deployment. Neglecting to develop robust configuration management policies and processes can result in a variety of problems that negatively impact the company's operations, reputation, and success.
